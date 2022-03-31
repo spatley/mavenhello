@@ -1,1 +1,3 @@
 # mavenhello
+
+minimal maven app
